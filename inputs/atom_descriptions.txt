@@ -1,0 +1,943 @@
+1, Hydrogen (H)
+Atomic Mass: [1.008]
+Nucleus: p1 n0
+Electrons: 1
+Standard State: Gas
+Group number: 1
+Group: Nonmetals
+
+2, Helium (He)
+Atomic Mass: [4.0026]
+Nucleus: p2 n2
+Electrons: 2
+Standard State: Gas
+Group number: 18
+Group: Noble gases
+
+3, Lithium (Li)
+Atomic Mass: [6.94]
+Nucleus: p3 n4
+Electrons: 2, 1
+Standard State: Solid
+Group number: 1
+Group: Alkali metals
+
+4, Beryllium (Be)
+Atomic Mass: [9.0122]
+Nucleus: p4 n5
+Electrons: 2, 2
+Standard State: Solid
+Group number: 2
+Group: Alkaline earth metals
+
+5, Boron (B)
+Atomic Mass: [10.81]
+Nucleus: p5 n6
+Electrons: 2, 3
+Standard State: Solid
+Group number: 13
+Group: Metalloids
+
+6, Carbon (C)
+Atomic Mass: [12.011]
+Nucleus: p6 n6
+Electrons: 2, 4
+Standard State: Solid
+Group number: 14
+Group: Nonmetals
+
+7, Nitrogen (N)
+Atomic Mass: [14.007]
+Nucleus: p7 n7
+Electrons: 2, 5
+Standard State: Gas
+Group number: 15
+Group: Nonmetals
+
+8, Oxygen (O)
+Atomic Mass: [15.999]
+Nucleus: p8 n8
+Electrons: 2, 6
+Standard State: Gas
+Group number: 16
+Group: Nonmetals
+
+9, Fluorine (F)
+Atomic Mass: [18.998]
+Nucleus: p9 n10
+Electrons: 2, 7
+Standard State: Gas
+Group number: 17
+Group: Halogens
+
+10, Neon (Ne)
+Atomic Mass: [20.180]
+Nucleus: p10 n10
+Electrons: 2, 8
+Standard State: Gas
+Group number: 18
+Group: Noble gases
+
+11, Sodium (Na)
+Atomic Mass: [22.990]
+Nucleus: p11 n12
+Electrons: 2, 8, 1
+Standard State: Solid
+Group number: 1
+Group: Alkali metals
+
+12, Magnesium (Mg)
+Atomic Mass: [24.305]
+Nucleus: p12 n12
+Electrons: 2, 8, 2
+Standard State: Solid
+Group number: 2
+Group: Alkaline earth metals
+
+13, Aluminum (Al)
+Atomic Mass: [26.982]
+Nucleus: p13 n14
+Electrons: 2, 8, 3
+Standard State: Solid
+Group number: 13
+Group: Post-transition metals
+
+14, Silicon (Si)
+Atomic Mass: [28.085]
+Nucleus: p14 n14
+Electrons: 2, 8, 4
+Standard State: Solid
+Group number: 14
+Group: Metalloids
+
+15, Phosphorus (P)
+Atomic Mass: [30.974]
+Nucleus: p15 n16
+Electrons: 2, 8, 5
+Standard State: Solid
+Group number: 15
+Group: Nonmetals
+
+16, Sulfur (S)
+Atomic Mass: [32.06]
+Nucleus: p16 n16
+Electrons: 2, 8, 6
+Standard State: Solid
+Group number: 16
+Group: Nonmetals
+
+17, Chlorine (Cl)
+Atomic Mass: [35.45]
+Nucleus: p17 n18
+Electrons: 2, 8, 7
+Standard State: Gas
+Group number: 17
+Group: Halogens
+
+18, Argon (Ar)
+Atomic Mass: [39.948]
+Nucleus: p18 n22
+Electrons: 2, 8, 8
+Standard State: Gas
+Group number: 18
+Group: Noble gases
+
+19, Potassium (K)
+Atomic Mass: [39.098]
+Nucleus: p19 n20
+Electrons: 2, 8, 8, 1
+Standard State: Solid
+Group number: 1
+Group: Alkali metals
+
+20, Calcium (Ca)
+Atomic Mass: [40.078]
+Nucleus: p20 n20
+Electrons: 2, 8, 8, 2
+Standard State: Solid
+Group number: 2
+Group: Alkaline earth metals
+
+21, Scandium (Sc)
+Atomic Mass: [44.956]
+Nucleus: p21 n24
+Electrons: 2, 8, 9, 2
+Standard State: Solid
+Group number: 3
+Group: Transition metals
+
+22, Titanium (Ti)
+Atomic Mass: [47.867]
+Nucleus: p22 n26
+Electrons: 2, 8, 10, 2
+Standard State: Solid
+Group number: 4
+Group: Transition metals
+
+23, Vanadium (V)
+Atomic Mass: [50.942]
+Nucleus: p23 n28
+Electrons: 2, 8, 11, 2
+Standard State: Solid
+Group number: 5
+Group: Transition metals
+
+24, Chromium (Cr)
+Atomic Mass: [51.996]
+Nucleus: p24 n28
+Electrons: 2, 8, 13, 1
+Standard State: Solid
+Group number: 6
+Group: Transition metals
+
+25, Manganese (Mn)
+Atomic Mass: [54.938]
+Nucleus: p25 n30
+Electrons: 2, 8, 13, 2
+Standard State: Solid
+Group number: 7
+Group: Transition metals
+
+26, Iron (Fe)
+Atomic Mass: [55.845]
+Nucleus: p26 n30
+Electrons: 2, 8, 14, 2
+Standard State: Solid
+Group number: 8
+Group: Transition metals
+
+27, Cobalt (Co)
+Atomic Mass: [58.933]
+Nucleus: p27 n32
+Electrons: 2, 8, 15, 2
+Standard State: Solid
+Group number: 9
+Group: Transition metals
+
+28, Nickel (Ni)
+Atomic Mass: [58.693]
+Nucleus: p28 n31
+Electrons: 2, 8, 16, 2
+Standard State: Solid
+Group number: 10
+Group: Transition metals
+
+29, Copper (Cu)
+Atomic Mass: [63.546]
+Nucleus: p29 n35
+Electrons: 2, 8, 18, 1
+Standard State: Solid
+Group number: 11
+Group: Transition metals
+
+30, Zinc (Zn)
+Atomic Mass: [65.38]
+Nucleus: p30 n35
+Electrons: 2, 8, 18, 2
+Standard State: Solid
+Group number: 12
+Group: Transition metals
+
+31, Gallium (Ga)
+Atomic Mass: [69.723]
+Nucleus: p31 n39
+Electrons: 2, 8, 18, 3
+Standard State: Solid
+Group number: 13
+Group: Post-transition metals
+
+32, Germanium (Ge)
+Atomic Mass: [72.63]
+Nucleus: p32 n41
+Electrons: 2, 8, 18, 4
+Standard State: Solid
+Group number: 14
+Group: Metalloids
+
+33, Arsenic (As)
+Atomic Mass: [74.922]
+Nucleus: p33 n42
+Electrons: 2, 8, 18, 5
+Standard State: Solid
+Group number: 15
+Group: Metalloids
+
+34, Selenium (Se)
+Atomic Mass: [78.971]
+Nucleus: p34 n45
+Electrons: 2, 8, 18, 6
+Standard State: Solid
+Group number: 16
+Group: Nonmetals
+
+35, Bromine (Br)
+Atomic Mass: [79.904]
+Nucleus: p35 n45
+Electrons: 2, 8, 18, 7
+Standard State: Liquid
+Group number: 17
+Group: Halogens
+
+36, Krypton (Kr)
+Atomic Mass: [83.798]
+Nucleus: p36 n48
+Electrons: 2, 8, 18, 8
+Standard State: Gas
+Group number: 18
+Group: Noble gases
+
+37, Rubidium (Rb)
+Atomic Mass: [85.468]
+Nucleus: p37 n48
+Electrons: 2, 8, 18, 8, 1
+Standard State: Solid
+Group number: 1
+Group: Alkali metals
+
+38, Strontium (Sr)
+Atomic Mass: [87.62]
+Nucleus: p38 n50
+Electrons: 2, 8, 18, 8, 2
+Standard State: Solid
+Group number: 2
+Group: Alkaline earth metals
+
+39, Yttrium (Y)
+Atomic Mass: [88.906]
+Nucleus: p39 n50
+Electrons: 2, 8, 18, 9, 2
+Standard State: Solid
+Group number: 3
+Group: Transition metals
+
+40, Zirconium (Zr)
+Atomic Mass: [91.224]
+Nucleus: p40 n51
+Electrons: 2, 8, 18, 10, 2
+Standard State: Solid
+Group number: 4
+Group: Transition metals
+
+41, Niobium (Nb)
+Atomic Mass: [92.906]
+Nucleus: p41 n52
+Electrons: 2, 8, 18, 12, 1
+Standard State: Solid
+Group number: 5
+Group: Transition metals
+
+42, Molybdenum (Mo)
+Atomic Mass: [95.95]
+Nucleus: p42 n54
+Electrons: 2, 8, 18, 13, 1
+Standard State: Solid
+Group number: 6
+Group: Transition metals
+
+43, Technetium (Tc)
+Atomic Mass:
+Nucleus: p43 n55
+Electrons: 2, 8, 18, 13, 2
+Standard State: Solid
+Group number: 7
+Group: Transition metals
+
+44, Ruthenium (Ru)
+Atomic Mass: [101.07]
+Nucleus: p44 n57
+Electrons: 2, 8, 18, 15, 1
+Standard State: Solid
+Group number: 8
+Group: Transition metals
+
+45, Rhodium (Rh)
+Atomic Mass: [102.91]
+Nucleus: p45 n58
+Electrons: 2, 8, 18, 16, 1
+Standard State: Solid
+Group number: 9
+Group: Transition metals
+
+46, Palladium (Pd)
+Atomic Mass: [106.42]
+Nucleus: p46 n60
+Electrons: 2, 8, 18, 18
+Standard State: Solid
+Group number: 10
+Group: Transition metals
+
+47, Silver (Ag)
+Atomic Mass: [107.87]
+Nucleus: p47 n61
+Electrons: 2, 8, 18, 18, 1
+Standard State: Solid
+Group number: 11
+Group: Transition metals
+
+48, Cadmium (Cd)
+Atomic Mass: [112.41]
+Nucleus: p48 n64
+Electrons: 2, 8, 18, 18, 2
+Standard State: Solid
+Group number: 12
+Group: Transition metals
+
+49, Indium (In)
+Atomic Mass: [114.82]
+Nucleus: p49 n66
+Electrons: 2, 8, 18, 18, 3
+Standard State: Solid
+Group number: 13
+Group: Post-transition metals
+
+50, Tin (Sn)
+Atomic Mass: [118.71]
+Nucleus: p50 n69
+Electrons: 2, 8, 18, 18, 4
+Standard State: Solid
+Group number: 14
+Group: Post-transition metals
+
+51, Antimony (Sb)
+Atomic Mass: [121.76]
+Nucleus: p51 n71
+Electrons: 2, 8, 18, 18, 5
+Standard State: Solid
+Group number: 15
+Group: Metalloids
+
+52, Tellurium (Te)
+Atomic Mass: [127.60]
+Nucleus: p52 n76
+Electrons: 2, 8, 18, 18, 6
+Standard State: Solid
+Group number: 16
+Group: Metalloids
+
+53, Iodine (I)
+Atomic Mass: [126.90]
+Nucleus: p53 n74
+Electrons: 2, 8, 18, 18, 7
+Standard State: Solid
+Group number: 17
+Group: Halogens
+
+54, Xenon (Xe)
+Atomic Mass: [131.29]
+Nucleus: p54 n77
+Electrons: 2, 8, 18, 18, 8
+Standard State: Gas
+Group number: 18
+Group: Noble gases
+
+55, Cesium (Cs)
+Atomic Mass: [132.91]
+Nucleus: p55 n78
+Electrons: 2, 8, 18, 18, 8, 1
+Standard State: Solid
+Group number: 1
+Group: Alkali metals
+
+56, Barium (Ba)
+Atomic Mass: [137.33]
+Nucleus: p56 n81
+Electrons: 2, 8, 18, 18, 8, 2
+Standard State: Solid
+Group number: 2
+Group: Alkaline earth metals
+
+57, Lanthanum (La)
+Atomic Mass: [138.91]
+Nucleus: p57 n82
+Electrons: 2, 8, 18, 18, 9, 2
+Standard State: Solid
+Group number: 3
+Group: Lanthanides
+
+58, Cerium (Ce)
+Atomic Mass: [140.12]
+Nucleus: p58 n82
+Electrons: 2, 8, 18, 19, 9, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+59, Praseodymium (Pr)
+Atomic Mass: [140.91]
+Nucleus: p59 n82
+Electrons: 2, 8, 18, 21, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+60, Neodymium (Nd)
+Atomic Mass: [144.24]
+Nucleus: p60 n84
+Electrons: 2, 8, 18, 22, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+61, Promethium (Pm)
+Atomic Mass: [145]
+Nucleus: p61 n84
+Electrons: 2, 8, 18, 23, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+62, Samarium (Sm)
+Atomic Mass: [150.36]
+Nucleus: p62 n88
+Electrons: 2, 8, 18, 24, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+63, Europium (Eu)
+Atomic Mass: [151.96]
+Nucleus: p63 n89
+Electrons: 2, 8, 18, 25, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+64, Gadolinium (Gd)
+Atomic Mass: [157.25]
+Nucleus: p64 n93
+Electrons: 2, 8, 18, 25, 9, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+65, Terbium (Tb)
+Atomic Mass: [158.93]
+Nucleus: p65 n94
+Electrons: 2, 8, 18, 27, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+66, Dysprosium (Dy)
+Atomic Mass: [162.50]
+Nucleus: p66 n97
+Electrons: 2, 8, 18, 28, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+67, Holmium (Ho)
+Atomic Mass: [164.93]
+Nucleus: p67 n98
+Electrons: 2, 8, 18, 29, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+68, Erbium (Er)
+Atomic Mass: [167.26]
+Nucleus: p68 n99
+Electrons: 2, 8, 18, 30, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+69, Thulium (Tm)
+Atomic Mass: [168.93]
+Nucleus: p69 n100
+Electrons: 2, 8, 18, 31, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+70, Ytterbium (Yb)
+Atomic Mass: [173.05]
+Nucleus: p70 n103
+Electrons: 2, 8, 18, 32, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Lanthanides
+
+71, Lutetium (Lu)
+Atomic Mass: [174.97]
+Nucleus: p71 n104
+Electrons: 2, 8, 18, 32, 9, 2
+Standard State: Solid
+Group number: 3
+Group: Lanthanides
+
+72, Hafnium (Hf)
+Atomic Mass: [178.49]
+Nucleus: p72 n106
+Electrons: 2, 8, 18, 32, 10, 2
+Standard State: Solid
+Group number: 4
+Group: Transition metals
+
+73, Tantalum (Ta)
+Atomic Mass: [180.95]
+Nucleus: p73 n108
+Electrons: 2, 8, 18, 32, 11, 2
+Standard State: Solid
+Group number: 5
+Group: Transition metals
+
+74, Tungsten (W)
+Atomic Mass: [183.84]
+Nucleus: p74 n110
+Electrons: 2, 8, 18, 32, 12, 2
+Standard State: Solid
+Group number: 6
+Group: Transition metals
+
+75, Rhenium (Re)
+Atomic Mass: [186.21]
+Nucleus: p75 n111
+Electrons: 2, 8, 18, 32, 13, 2
+Standard State: Solid
+Group number: 7
+Group: Transition metals
+
+76, Osmium (Os)
+Atomic Mass: [190.23]
+Nucleus: p76 n114
+Electrons: 2, 8, 18, 32, 14, 2
+Standard State: Solid
+Group number: 8
+Group: Transition metals
+
+77, Iridium (Ir)
+Atomic Mass: [192.22]
+Nucleus: p77 n115
+Electrons: 2, 8, 18, 32, 15, 2
+Standard State: Solid
+Group number: 9
+Group: Transition metals
+
+78, Platinum (Pt)
+Atomic Mass: [195.08]
+Nucleus: p78 n117
+Electrons: 2, 8, 18, 32, 17, 1
+Standard State: Solid
+Group number: 10
+Group: Transition metals
+
+79, Gold (Au)
+Atomic Mass: [196.97]
+Nucleus: p79 n118
+Electrons: 2, 8, 18, 32, 18, 1
+Standard State: Solid
+Group number: 11
+Group: Transition metals
+
+80, Mercury (Hg)
+Atomic Mass: [200.59]
+Nucleus: p80 n121
+Electrons: 2, 8, 18, 32, 18, 2
+Standard State: Liquid
+Group number: 12
+Group: Transition metals
+
+81, Thallium (Tl)
+Atomic Mass: [204.38]
+Nucleus: p81 n123
+Electrons: 2, 8, 18, 32, 18, 3
+Standard State: Solid
+Group number: 13
+Group: Post-transition metals
+
+82, Lead (Pb)
+Atomic Mass: [207.2]
+Nucleus: p82 n125
+Electrons: 2, 8, 18, 32, 18, 4
+Standard State: Solid
+Group number: 14
+Group: Post-transition metals
+
+83, Bismuth (Bi)
+Atomic Mass: [208.98]
+Nucleus: p83 n126
+Electrons: 2, 8, 18, 32, 18, 5
+Standard State: Solid
+Group number: 15
+Group: Post-transition metals
+
+84, Polonium (Po)
+Atomic Mass: [209]
+Nucleus: p84 n125
+Electrons: 2, 8, 18, 32, 18, 6
+Standard State: Solid
+Group number: 16
+Group: Metalloids
+
+85, Astatine (At)
+Atomic Mass: [210]
+Nucleus: p85 n125
+Electrons: 2, 8, 18, 32, 18, 7
+Standard State: Solid
+Group number: 17
+Group: Halogens
+
+86, Radon (Rn)
+Atomic Mass: [222]
+Nucleus: p86 n136
+Electrons: 2, 8, 18, 32, 18, 8
+Standard State: Gas
+Group number: 18
+Group: Noble gases
+
+87, Francium (Fr)
+Atomic Mass: [223]
+Nucleus: p87 n136
+Electrons: 2, 8, 18, 32, 18, 8, 1
+Standard State: Solid
+Group number: 1
+Group: Alkali metals
+
+88, Radium (Ra)
+Atomic Mass: [226]
+Nucleus: p88 n138
+Electrons: 2, 8, 18, 32, 18, 8, 2
+Standard State: Solid
+Group number: 2
+Group: Alkaline earth metals
+
+89, Actinium (Ac)
+Atomic Mass: [227]
+Nucleus: p89 n138
+Electrons: 2, 8, 18, 32, 18, 9, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+90, Thorium (Th)
+Atomic Mass: [232.04]
+Nucleus: p90 n142
+Electrons: 2, 8, 18, 32, 18, 10, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+91, Protactinium (Pa)
+Atomic Mass: [231.04]
+Nucleus: p91 n140
+Electrons: 2, 8, 18, 32, 20, 9, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+92, Uranium (U)
+Atomic Mass: [238.03]
+Nucleus: p92 n146
+Electrons: 2, 8, 18, 32, 21, 9, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+93, Neptunium (Np)
+Atomic Mass: [237]
+Nucleus: p93 n144
+Electrons: 2, 8, 18, 32, 22, 9, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+94, Plutonium (Pu)
+Atomic Mass: [244]
+Nucleus: p94 n150
+Electrons: 2, 8, 18, 32, 24, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+95, Americium (Am)
+Atomic Mass: [243]
+Nucleus: p95 n148
+Electrons: 2, 8, 18, 32, 25, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+96, Curium (Cm)
+Atomic Mass: [247]
+Nucleus: p96 n151
+Electrons: 2, 8, 18, 32, 25, 9, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+97, Berkelium (Bk)
+Atomic Mass: [247]
+Nucleus: p97 n150
+Electrons: 2, 8, 18, 32, 27, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+98, Californium (Cf)
+Atomic Mass: [251]
+Nucleus: p98 n153
+Electrons: 2, 8, 18, 32, 28, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+99, Einsteinium (Es)
+Atomic Mass: [252]
+Nucleus: p99 n153
+Electrons: 2, 8, 18, 32, 29, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+100, Fermium (Fm)
+Atomic Mass: [257]
+Nucleus: p100 n157
+Electrons: 2, 8, 18, 32, 30, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+101, Mendelevium (Md)
+Atomic Mass: [258]
+Nucleus: p101 n157
+Electrons: 2, 8, 18, 32, 31, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+102, Nobelium (No)
+Atomic Mass: [259]
+Nucleus: p102 n157
+Electrons: 2, 8, 18, 32, 32, 8, 2
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+103, Lawrencium (Lr)
+Atomic Mass: [262]
+Nucleus: p103 n159
+Electrons: 2, 8, 18, 32, 32, 8, 3
+Standard State: Solid
+Group number: N/A
+Group: Actinides
+
+104, Rutherfordium (Rf)
+Atomic Mass: [267]
+Nucleus: p104 n163
+Electrons: 2, 8, 18, 32, 32, 10, 2
+Standard State: Solid
+Group number: 4
+Group: Transition metals
+
+105, Dubnium (Db)
+Atomic Mass: [270]
+Nucleus: p105 n165
+Electrons: 2, 8, 18, 32, 32, 11, 2
+Standard State: Solid
+Group number: 5
+Group: Transition metals
+
+106, Seaborgium (Sg)
+Atomic Mass: [271]
+Nucleus: p106 n165
+Electrons: 2, 8, 18, 32, 32, 12, 2
+Standard State: Solid
+Group number: 6
+Group: Transition metals
+
+107, Bohrium (Bh)
+Atomic Mass: [270]
+Nucleus: p107 n163
+Electrons: 2, 8, 18, 32, 32, 13, 2
+Standard State: Solid
+Group number: 7
+Group: Transition metals
+
+108, Hassium (Hs)
+Atomic Mass: [277]
+Nucleus: p108 n169
+Electrons: 2, 8, 18, 32, 32, 14, 2
+Standard State: Solid
+Group number: 8
+Group: Transition metals
+
+109, Meitnerium (Mt)
+Atomic Mass: [278]
+Nucleus: p109 n169
+Electrons: 2, 8, 18, 32, 32, 15, 2
+Standard State: Solid
+Group number: 9
+Group: Transition metals
+
+110, Darmstadtium (Ds)
+Atomic Mass: [281]
+Nucleus: p110 n171
+Electrons: 2, 8, 18, 32, 32, 17, 1
+Standard State: Solid
+Group number: 10
+Group: Transition metals
+
+111, Roentgenium (Rg)
+Atomic Mass: [282]
+Nucleus: p111 n171
+Electrons: 2, 8, 18, 32, 32, 18, 1
+Standard State: Solid
+Group number: 11
+Group: Transition metals
+
+112, Copernicium (Cn)
+Atomic Mass: [285]
+Nucleus: p112 n173
+Electrons: 2, 8, 18, 32, 32, 18, 2
+Standard State: Liquid
+Group number: 12
+Group: Transition metals
+
+113, Nihonium (Nh)
+Atomic Mass: [286]
+Nucleus: p113 n173
+Electrons: 2, 8, 18, 32, 32, 18, 3
+Standard State: Solid (predicted)
+Group number: 13
+Group: Boron group
+
+114, Flerovium (Fl)
+Atomic Mass: [289]
+Nucleus: p114 n175
+Electrons: 2, 8, 18, 32, 32, 18, 4
+Standard State: Liquid (predicted)
+Group number: 14
+Group: Carbon group
+
+115, Moscovium (Mc)
+Atomic Mass: [290]
+Nucleus: p115 n175
+Electrons: 2, 8, 18, 32, 32, 18, 5
+Standard State: Solid (predicted)
+Group number: 15
+Group: Pnictogens
+
+116, Livermorium (Lv)
+Atomic Mass: [293]
+Nucleus: p116 n177
+Electrons: 2, 8, 18, 32, 32, 18, 6
+Standard State: Solid (predicted)
+Group number: 16
+Group: Chalcogens
+
+117, Tennessine (Ts)
+Atomic Mass: [294]
+Nucleus: p117 n177
+Electrons: 2, 8, 18, 32, 32, 18, 7
+Standard State: Solid (predicted)
+Group number: 17
+Group: Halogens
+
+118, Oganesson (Og)
+Atomic Mass: [294]
+Nucleus: p118 n176
+Electrons: 2, 8, 18, 32, 32, 18, 8
+Standard State: Gas (predicted)
+Group number: 18
+Group: Noble gases

@@ -1,0 +1,13 @@
+# Common
+.*.swp
+*.zip
+
+# Specific to this repo
+archive/
+outputs/
+outputs_pdf/
+output_doc/
+backup_output/
+
+# OSX
+.DS_STORE
